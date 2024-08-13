@@ -1,10 +1,13 @@
 # Product-Sales-Analysis-for-Sports
 
-**Sports Sales Data Analysis for Footwear**
+*Sports Sales Data Analysis for Footwear*
+
 Project Overview
+
 This project focuses on analyzing sales data for footwear across various regions, cities, and countries, with the objective of uncovering key insights and trends to improve business decisions. The analysis was conducted using Power BI, leveraging various data visualization techniques and interactive features.
 
 *Data Description*
+
 The dataset includes the following columns:
 
 Retailer
@@ -45,5 +48,7 @@ Regional Performance: Profit and sales analysis by region and state.
 Monthly Trends: Monthly sales and profit analysis.
 Product Performance: Decomposition tree visual for total and average sales per unit by product and retailer.
 Interactive Filters: Filters for navigating by region, state, city, product, and sales method.
-Conclusion
+
+*Conclusion*
+
 This project provided actionable insights that contributed to a 15% increase in overall business intelligence capabilities and helped in making data-driven decisions for inventory and marketing strategies.

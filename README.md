@@ -1,10 +1,12 @@
 # Product-Sales-Analysis-for-Sports
 
+POWER BI LINK: [https://app.powerbi.com/groups/me/reports/b572c86d-6c4d-470d-a8d3-fe87c3f97341?ctid=510fbeca-7d2d-4791-9a4c-4ed583336b67&pbi_source=linkShare&bookmarkGuid=103e4153-a025-4844-8f65-2ab29226028f]
+
 *Sports Sales Data Analysis for Footwear*
 
 Project Overview
 
-This project focuses on analyzing sales data for footwear across various regions, cities, and countries, with the objective of uncovering key insights and trends to improve business decisions. The analysis was conducted using Power BI, leveraging various data visualization techniques and interactive features.
+This project focuses on analyzing sales data for footwear across various regions, cities, and countries, with objective of uncovering key insights and trends to improve business decisions. The analysis was conducted using Power BI, leveraging various data visualization techniques and interactive features.
 
 *Data Description*
 
